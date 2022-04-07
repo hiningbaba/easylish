@@ -1,0 +1,2 @@
+# easylish
+adblock rules
