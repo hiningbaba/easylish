@@ -1,11 +1,11 @@
-ebay-kleinanzeigen.de###bsite-base--left-banner--full
-ebay-kleinanzeigen.de##.google_center_div
-ebay-kleinanzeigen.de##.google_image_div
-ebay-kleinanzeigen.de###google_image_div
-ebay-kleinanzeigen.de###adunit
-ebay-kleinanzeigen.de##.adunit
+###bsite-base--left-banner--full
+##.google_center_div
+##.google_image_div
+###google_image_div
 ###adunit
-ebay-kleinanzeigen.de###site-base--left-banner
-ebay-kleinanzeigen.de###google_center_div
-ebay-kleinanzeigen.de##.google_center_div
-ebay-kleinanzeigen.de##.ns-oytkc-l-banner-vanilla ns-oytkc-v-5
+##.adunit
+###adunit
+###site-base--left-banner
+###google_center_div
+e##.google_center_div
+##.ns-oytkc-l-banner-vanilla ns-oytkc-v-5
