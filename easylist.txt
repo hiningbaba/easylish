@@ -9473,12 +9473,13 @@ zhuankebar.com###article-cnt > a
 blog.csdn.net###article_content > link + a
 blog.csdn.net###recommendAdBox
 blog.csdn.net##.adsbygoogle
+blog.csdn.net##.hot-brand
+blog.csdn.net###kp_box_528
 p2peye.com###article_content a[ref="nofollow"]
 doyo.cn###article_top_down
 360doc.cn###artnewdiv
 csdn.net###asideCustom36733263
 csdn.net###asideCustom65392991
-csdn.net##.hot-brand
 baidu.com###asideLeft
 baidu.com###asideRight
 zybang.com###askTeacher-after-adx-wrap
