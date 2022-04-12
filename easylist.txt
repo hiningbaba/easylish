@@ -9478,6 +9478,7 @@ doyo.cn###article_top_down
 360doc.cn###artnewdiv
 csdn.net###asideCustom36733263
 csdn.net###asideCustom65392991
+csdn.net##.hot-brand
 baidu.com###asideLeft
 baidu.com###asideRight
 zybang.com###askTeacher-after-adx-wrap
