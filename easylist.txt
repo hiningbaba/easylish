@@ -9471,6 +9471,8 @@ txahz.com###archy_ad2
 wx.sina.com.cn###artibody > .article-video
 zhuankebar.com###article-cnt > a
 blog.csdn.net###article_content > link + a
+blog.csdn.net###recommendAdBox
+blog.csdn.net##.adsbygoogle
 p2peye.com###article_content a[ref="nofollow"]
 doyo.cn###article_top_down
 360doc.cn###artnewdiv
