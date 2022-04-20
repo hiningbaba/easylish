@@ -10379,6 +10379,8 @@ ca168.com,cs.com.cn,qiannao.com,qinbing.cn,sonimei.cn###rightDiv
 zimushe.com###rightFixed
 2345.com###rightXieCheng
 kuai8.com###right_Ad
+kuai8.com###lz_6pl3417kkic
+kuai8.com###Coupletleft
 cpd.com.cn###right_ad1
 cpd.com.cn###right_ad2
 cpd.com.cn###right_adt
