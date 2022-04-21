@@ -15551,7 +15551,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||szhr.com.cn^*ad
 @@||szhr.com^$generichide
 @@||szhr.com^*ad
-@@||s.go.sohu.com^*/?callback=$domain=sohu.com
+@@||s.go.sohu.com^*
 @@||tangdou.com/sample/share/advert?$domain=tangdoucdn.com
 @@||tansuo.cntv.cn^*/tansuo_Advertise.js
 @@||taobao.com/go/app/tmall/login-api.php?
