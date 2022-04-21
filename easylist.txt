@@ -8058,7 +8058,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||ruten.com.tw^*/ahd_
 ||ruyig.com/730x76.png
 ||s-msn.com/portal/xiatui.js
-||s.go.sohu.com^*/?callback=
 ||s.weibo.com/widget.html
 ||s.yimg.com/*_160x800_$subdocument
 ||s.yimg.com/gs/apex/
