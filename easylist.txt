@@ -8058,6 +8058,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||ruten.com.tw^*/ahd_
 ||ruyig.com/730x76.png
 ||s-msn.com/portal/xiatui.js
+||s.go.sohu.com^*/?callback=
 ||s.weibo.com/widget.html
 ||s.yimg.com/*_160x800_$subdocument
 ||s.yimg.com/gs/apex/
@@ -15245,9 +15246,6 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||down.cc/down/js/ad.js
 @@||dqzsteel.com/Website/Image/guanggao/
 @@||dwstatic.com/b=amkit&f=*/adjoin.
-@@||dgss0.baidu.com^*jpeg
-@@||dgss1.baidu.com^*jpeg
-@@||dgss2.baidu.com^*jpeg
 @@||e.cn.miaozhen.com/r/k=*=http
 @@||e9china.net^$generichide
 @@||easylife.tw/js/adblockDetector.js
@@ -15553,7 +15551,6 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||szhr.com.cn^*ad
 @@||szhr.com^$generichide
 @@||szhr.com^*ad
-@@||s.go.sohu.com^*
 @@||tangdou.com/sample/share/advert?$domain=tangdoucdn.com
 @@||tansuo.cntv.cn^*/tansuo_Advertise.js
 @@||taobao.com/go/app/tmall/login-api.php?
@@ -15652,6 +15649,8 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||zhaopin.cn^*/adbox_
 @@||zjjcxy.cn^*/ad.css?$stylesheet
 @@||zpmobi.cn^*/ad.css?$stylesheet
+@@domain=.hao123.com|
+@@$domain=.hao123.com|
 !#0
 !#17ce.com
 17ce.com##a[href^="http"]:not([href*="17ce.com"]) img
@@ -21732,6 +21731,7 @@ fqsousou.com,kengso.com#@#.user-share
 @@||soufunimg.com/count/uvbforpc.js
 @@||ss999.me/i.php?i=
 @@||stjscn.s-msn.com/portal/hp/2011/udctrack.
+@@||sohu.com^$document
 @@||tajs.qq.com/stats?$~third-party
 @@||tbcdn.cn^*/click_track.js
 @@||tbskip.taobao.com/json/
@@ -21747,8 +21747,6 @@ fqsousou.com,kengso.com#@#.user-share
 @@||yimg.com/ss/rapid3.js$domain=style.yahoo.com.tw|tw.answers.yahoo.com
 @@||youku.com/cms/player/userinfo/
 @@||youku.com/cms/playlog/get?
-@@||sohu.com^$document
-
 ||hjfile.cn/analytics/site/TrackEvent.js
 !---------------------------------Temporary-----------------------------------!
 !----------------------------------The End------------------------------------!
