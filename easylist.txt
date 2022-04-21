@@ -21745,11 +21745,7 @@ fqsousou.com,kengso.com#@#.user-share
 @@||yimg.com/ss/rapid3.js$domain=style.yahoo.com.tw|tw.answers.yahoo.com
 @@||youku.com/cms/player/userinfo/
 @@||youku.com/cms/playlog/get?
-@@||sohu.com^*.js
-@@||hao123.com*.js
-@@||hao123.com*.jpg
-@@||hao123.com*.png
-@@||hao123.com*.gif
+
 
 ||hjfile.cn/analytics/site/TrackEvent.js
 !---------------------------------Temporary-----------------------------------!
