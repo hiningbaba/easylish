@@ -6190,7 +6190,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||eastday.com/static/styles/*_gg.css
 ||eastday.com^$subdocument,~third-party
 ||eastmoney.com/banner/
-||eastmoney.com/s
 ||eastmoney.com/cp/left_index.html
 ||eastmoney.com/js/headbiggg_
 ||eastmoney.com/public/js/left.js
