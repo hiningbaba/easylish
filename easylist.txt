@@ -21732,6 +21732,7 @@ fqsousou.com,kengso.com#@#.user-share
 @@||ss999.me/i.php?i=
 @@||stjscn.s-msn.com/portal/hp/2011/udctrack.
 @@||sohu.com^$document
+@@||sohu.com^*
 @@||tajs.qq.com/stats?$~third-party
 @@||tbcdn.cn^*/click_track.js
 @@||tbskip.taobao.com/json/
