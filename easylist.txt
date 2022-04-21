@@ -15246,6 +15246,9 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||down.cc/down/js/ad.js
 @@||dqzsteel.com/Website/Image/guanggao/
 @@||dwstatic.com/b=amkit&f=*/adjoin.
+@@||dgss0.baidu.com^*
+@@||dgss1.baidu.com^*
+@@||dgss2.baidu.com^*
 @@||e.cn.miaozhen.com/r/k=*=http
 @@||e9china.net^$generichide
 @@||easylife.tw/js/adblockDetector.js
