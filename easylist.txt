@@ -15650,8 +15650,6 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||zhaopin.cn^*/adbox_
 @@||zjjcxy.cn^*/ad.css?$stylesheet
 @@||zpmobi.cn^*/ad.css?$stylesheet
-@@domain=.hao123.com|
-@@$domain=.hao123.com|
 !#0
 !#17ce.com
 17ce.com##a[href^="http"]:not([href*="17ce.com"]) img
