@@ -21687,7 +21687,7 @@ fqsousou.com,kengso.com#@#.user-share
 @@||google-analytics.com/plugins/ua/linkid.js$domain=support.amd.com
 @@||googletagmanager.com/gtm.js$domain=asus.com.cn|support.amd.com|warnermusic.com.tw
 @@||guahao.cn/common/js/plugins/fingerprint.js
-@@||hao123img.com/resource/zt/widget/service/util/clickTrack.
+||hao123img.com/resource/zt/widget/service/util/clickTrack.
 @@||hdslb.com/bfs/seed/log/report/log-reporter.js$domain=message.bilibili.com
 @@||highcharts.com.cn/highcharts/modules/heatmap.js
 @@||hk01.com^*/ga_trace.js
